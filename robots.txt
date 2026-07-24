@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-wrwgm1.newsyourday.com/sitemap.xml
